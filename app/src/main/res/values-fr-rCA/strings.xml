@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Lab Final</string>
+
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+
+    <!--    Title    -->
+    <string name="title_article_info">Informations sur article</string>
+    <string name="title_web">WEB</string>
+
+    <!--    Menu    -->
+    <string name="menu_search">The Guardian News</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="menu_help">Aider</string>
+
+    <!--    Hint    -->
+    <string name="hint_keyword">Rechercher des articles</string>
+
+    <!--    Button    -->
+    <string name="button_search">Chercher</string>
+    <string name="button_favorites_add">Ajouter aux Favoris</string>
+
+    <!--    Label    -->
+    <string name="label_section">Section</string>
+    <string name="label_title">Titre</string>
+    <string name="label_url">URL</string>
+
+    <!--    Message    -->
+    <string name="msg_list_empty">Aucun résultat de recherche ni historique.</string>
+    <string name="msg_favorites_empty">Aucun Favori</string>
+    <string name="msg_keyword_empty">Entrez vos mots de recherche.</string>
+    <string name="msg_loading">Recherche de articles de presse.</string>
+    <string name="msg_favorites_add">Ajouté aux favoris.</string>
+    <string name="msg_favorites_del">Supprimé des favoris.</string>
+    <string name="msg_error">Une panne temporaire est produite.</string>
+
+    <!--    Help    -->
+    <string name="help_search">Tapez le mot de recherche dans le espace vide et cliquez sur le bouton de recherche bleu à droite.</string>
+    <string name="help_favorites">Les messages enregistrés sont répertoriés. Cliquez longuement sur le message pour le supprimer.</string>
+    <string name="help_search_article">Cliquez sur le URL des informations trouvées. Ensuite, il va à cette page Web.</string>
+    <string name="help_favorites_article">Cliquez sur le URL. Ensuite, il va à cette page Web.</string>
+    <string name="help_web">Cette page Web peut être visualisée en faisant défiler le écran vers le bas.</string>
+
+    <!--    Dialog    -->
+    <string name="dialog_title_help">Aider</string>
+    <string name="dialog_title_delete">Effacer</string>
+    <string name="dialog_msg_favorites_delete">Supprimer vos favorites?</string>
+    <string name="dialog_yes">Oui</string>
+    <string name="dialog_no">Non</string>
+    <string name="dialog_ok">Chèque</string>
+</resources>

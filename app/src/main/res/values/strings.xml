@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Lab Final</string>
+
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+
+    <!--    Title    -->
+    <string name="title_article_info">Article Information</string>
+    <string name="title_web">WEB</string>
+
+    <!--    Menu    -->
+    <string name="menu_search">The Guardian News</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_help">Help</string>
+
+    <!--    Hint    -->
+    <string name="hint_keyword">Find articles</string>
+
+    <!--    Button    -->
+    <string name="button_search">Search</string>
+    <string name="button_favorites_add">Add to Favorites</string>
+
+    <!--    Label    -->
+    <string name="label_section">Section</string>
+    <string name="label_title">Title</string>
+    <string name="label_url">URL</string>
+
+    <!--    Message    -->
+    <string name="msg_list_empty">No search results or history.</string>
+    <string name="msg_favorites_empty">No Favorites</string>
+    <string name="msg_keyword_empty">Enter your search words.</string>
+    <string name="msg_loading">Searching for news articles.</string>
+    <string name="msg_favorites_add">Added to Favorites.</string>
+    <string name="msg_favorites_del">Removed from Favorites.</string>
+    <string name="msg_error">A temporary failure has occurred.</string>
+
+    <!--    Help    -->
+    <string name="help_search">Type the search word in the blank and click the blue search button on the right.</string>
+    <string name="help_favorites">Saved posts are listed. Long click on the post to delete it.</string>
+    <string name="help_search_article">Click the URL of the found information. Then it goes to that webpage.</string>
+    <string name="help_favorites_article">Click on the URL. Then it goes to that webpage.</string>
+    <string name="help_web">This web page can be viewed by scrolling down the screen.</string>
+
+    <!--    Dialog    -->
+    <string name="dialog_title_help">Help</string>
+    <string name="dialog_title_delete">Delete</string>
+    <string name="dialog_msg_favorites_delete">Delete your favorites?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">Check</string>
+</resources>
