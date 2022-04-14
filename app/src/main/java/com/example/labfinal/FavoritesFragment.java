@@ -111,7 +111,7 @@ public class FavoritesFragment extends Fragment {
         super.onDetach();
     }
 
-    /* Get Favorites from DB */
+    /** Get Favorites from DB */
     private void loadFavorites() {
         if (this.context == null) {
             return;
@@ -144,7 +144,7 @@ public class FavoritesFragment extends Fragment {
         cursor.close();
     }
 
-    /* Delete Favorites */
+    /** Delete Favorites */
     private void delFavorites(int position) {
         if (this.context == null) {
             return;

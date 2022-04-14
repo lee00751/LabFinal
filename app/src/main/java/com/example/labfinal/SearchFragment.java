@@ -168,7 +168,7 @@ public class SearchFragment extends Fragment {
         super.onStop();
     }
 
-    /* Downloads information from Guardian news api and composes a list */
+    /** Downloads information from Guardian news api and composes a list */
     private class GuardianNewsApi extends AsyncTask<String, Integer, Boolean> {
 
         @Override

@@ -16,7 +16,10 @@ public abstract class ArticleActivity extends AppCompatActivity {
 
     protected String id, sectionName, webTitle, webUrl;
 
-    /* initialization */
+    /**
+     * Initialization
+     * @param
+     */
     protected void init() {
         // receive article information
         Intent intent = getIntent();
@@ -72,6 +75,6 @@ public abstract class ArticleActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    /* View Help */
+    /** View Help */
     protected abstract void goHelp();
 }

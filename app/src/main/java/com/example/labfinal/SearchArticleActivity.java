@@ -44,9 +44,7 @@ public class SearchArticleActivity extends ArticleActivity {
                 .show();
     }
 
-    /**
-     *  Add to Favorites
-     */
+    /** Add to Favorites */
     private void addFavorites() {
         MyOpener dbOpener = new MyOpener(this);
         SQLiteDatabase db = dbOpener.getWritableDatabase();

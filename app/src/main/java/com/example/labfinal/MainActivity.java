@@ -25,6 +25,12 @@ import android.widget.Toast;
 import com.google.android.material.navigation.NavigationView;
 
 import java.util.ArrayList;
+/**
+ * The program allows users to enter a search term to find articles
+ * in the Guardian newspaper related to that term.
+ * @author Sanghyun Lee
+ * @version 1.0
+ */
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
