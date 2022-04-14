@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Lab Final</string>
 
-    <string name="drawer_opened">Drawer Opened</string>
-    <string name="drawer_closed">Drawer Closed</string>
+    <string name="drawer_opened">Tiroir ouvert</string>
+    <string name="drawer_closed">Tiroir fermé</string>
 
     <!--    Title    -->
     <string name="title_article_info">Informations sur article</string>
